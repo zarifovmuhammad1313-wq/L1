@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>L1</h1>
+      <h1>LaundryPro CRM</h1>
     </main>
   );
 }
